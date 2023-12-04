@@ -13,10 +13,15 @@
 ### Sumber Data
    Sumber data lokasi kafe didapatkan dari Google Maps
 
-#### Halaman Produk
+### Halaman Produk
+#### Homepage
 ![Homepage](https://github.com/ellenanrl/KayotaReactNativeResponsi/assets/142763226/833378ed-e95c-448a-a79a-8ce95261e63a)
+#### Map
 ![Map](https://github.com/ellenanrl/KayotaReactNativeResponsi/assets/142763226/a6764074-67c5-46ba-b529-97b638cd75b9)
+#### Add Data
 ![image](https://github.com/ellenanrl/KayotaReactNativeResponsi/assets/142763226/b2b3c953-2dbf-4121-ba2f-26f408d32ff4)
+#### List Data
 ![List Data](https://github.com/ellenanrl/KayotaReactNativeResponsi/assets/142763226/64cc89e8-0aeb-466a-857c-e6f0e7ee01d6)
+#### About Author
 ![Author](https://github.com/ellenanrl/KayotaReactNativeResponsi/assets/142763226/bf7a4ff5-35f0-4635-a6a4-21f178beb0d1)
 
