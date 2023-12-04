@@ -1,5 +1,5 @@
 # react-native-app-kayotaa
-   Aplikasi Kayota merupakan aplikasi persebaran kafe di Yogyakarta dimana pengguna dapat menambahkan lokasi kafe beserta informasi alamat dan ulasan. Slein itu, pengguna dapat mencari informasi rute pada kumpulan data kafe yang sudah ditambahkan.
+   Aplikasi Kayota merupakan aplikasi persebaran kafe di Yogyakarta dimana pengguna dapat menambahkan lokasi kafe beserta informasi alamat dan ulasan. Selain itu, pengguna dapat mencari informasi rute pada kumpulan data kafe yang sudah ditambahkan.
 
 ## Stack
    1. React native
